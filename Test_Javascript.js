@@ -1,3 +1,3 @@
 <script>
-document.getElementById("demo").innerHTML = "My First JavaScript using Cxfloww";
+document.getElementById("demo").innerHTML = "My First JavaScript using Cxflowww";
 </script>
