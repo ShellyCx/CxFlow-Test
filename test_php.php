@@ -24,7 +24,7 @@
                      if($error_message != ''){ 
                   ?>
                   <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                    <!-- <strong>Error!</strong>  -->
+                    <!-- <strong>Error!</stroong>  -->
                     <?php
 
                         echo $error_message != '' ? $error_message : ''; 
