@@ -1,5 +1,5 @@
 <script>ww
-document.getElementById("demo").innerHTML = "My First JavaScript using Cxflzzwwwzwww";
+document.getElementById("demo").innerHTML = "My First JavaScript using Cxflzzwwwwzwww";
 
 
 <form action=‘index.php’ method="post">
