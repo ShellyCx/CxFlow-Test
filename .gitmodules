@@ -1,0 +1,3 @@
+[submodule "DSVW"]
+	path = DSVW
+	url = https://github.com/jbruinaud/DSVW.git
